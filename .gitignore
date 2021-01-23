@@ -1,0 +1,7 @@
+/node_modules/
+/www/build/
+
+.DS_Store
+.idea
+app/config/local.neon
+vendor
