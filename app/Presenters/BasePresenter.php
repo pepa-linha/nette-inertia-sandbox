@@ -14,9 +14,4 @@ class BasePresenter extends InertiaPresenter
         // @todo
         return '1';
     }
-
-    protected function getInertiaComponentName(): string
-    {
-        return $this->getName();
-    }
 }
